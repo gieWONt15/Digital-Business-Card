@@ -3,7 +3,7 @@ export default function Info() {
         <header>
             <img
                 className="avatar"
-                src="../src/assets/image.png"
+                src="./src/assets/image.png"
                 alt="My avatar"
             />
             <h1>Paweł Gierlotka</h1>

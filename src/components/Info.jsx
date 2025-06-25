@@ -1,9 +1,11 @@
+import avatarImage from "../assets/image.png";
+
 export default function Info() {
     return (
         <header>
             <img
                 className="avatar"
-                src="./src/assets/image.png"
+                src={avatarImage}
                 alt="My avatar"
             />
             <h1>Paweł Gierlotka</h1>

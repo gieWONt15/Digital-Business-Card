@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Try it now on: https://giewont15.github.io/Digital-Businness-Card/
+## Try it now on: https://giewont15.github.io/Digital-Business-Card/
 
 Currently, two official plugins are available:
 
